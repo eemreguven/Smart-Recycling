@@ -1,0 +1,21 @@
+Çayırova Yunus Ergüz İlköğretim Okulu Yanı, 40.8351209, 29.3792313
+Çayırova Akse Mah. Saat Kulesi Sosyal Tesis Yanı, 40.8390146, 29.3919177
+Çayırova Belediye Hizmet Binası Önü, 40.830528, 29.380023
+Çayırova Cumhuriyet Mah. Diş Hastanesi Önü, 40.8611467, 29.3710873
+Çayırova Cumhuriyet Mah. Koca Yusuf Parkı, 40.8617423, 29.3755132
+Çayırova Şelale Park Sol Taraf Trafo Yanı, 40.823582, 29.381486
+Gebze Mimar Sinan Mh. Dostluk Parkı Yanı, 40.8085975, 29.3860047
+Gebze Cumhuriyet Mh. Lunapark Alanı Yanı, 40.809953, 29.381316
+Gebze Beylikbağı Parkı Basket Sahası Yanı, 40.805601, 29.383822
+Gebze Belediyesi İSU Girişi, 40.804866, 29.440403
+Gebze Ulus Mah. Aile Sağlık Merkezi Yanı, 40.8088859, 29.3920476
+Gebze Mustafa Paşa Camii Meydan, 40.7994864, 29.4325292
+Gebze Kent Meydanı Peynirci Baba Yanı, 40.7991114, 29.4296311
+Gebze Ahmet Pembegüllü Blv. Kapalı Pazar Önü, 40.7901971, 29.4421024
+Gebze KBB Sporcu Eğitim Merkezi Önü, 40.795967, 29.4377291
+Gebze Mutlu Kent Blv. Sosyal Hizmet Merkezi Md. Önü, 40.828275, 29.421371
+Gebze Mutlu Kent Sitesi Migros Karşısı, 40.8260919, 29.4177715
+Gebze Mevlana Mah. Kapalı Pazar Alanı, 40.8117449, 29.4175641
+Darıca Balyanoz Koyu 2.Etap Giriş Kapısı Önü, 40.7937836, 29.3503454
+Darıca Yalı Mah. Millet Bahçesi Antik Köfte Karşısı, 40.764044, 29.411579
+GTÜ Bilgisayar Müh. Binası - 1, 40.808046, 29.356066

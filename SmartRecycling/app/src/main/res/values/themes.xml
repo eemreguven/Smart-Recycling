@@ -1,0 +1,61 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartRecycling" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SmartRecycling" parent="Base.Theme.SmartRecycling">
+        <item name="android:statusBarColor">
+            @android:color/black
+        </item>
+        <item name="android:navigationBarColor">
+            @android:color/black
+        </item>
+    </style>
+
+    <style name="BlueButton" parent="Widget.AppCompat.Button">
+        <item name="elevation">5dp</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:backgroundTint">@color/button_color_blue</item>
+        <item name="android:textColor">@color/button_text_color_white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingHorizontal">10dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    <style name="GrayButton" parent="Widget.AppCompat.Button">
+        <item name="elevation">5dp</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:backgroundTint">@color/gray</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingHorizontal">10dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="GreenButton" parent="Widget.AppCompat.Button">
+        <item name="elevation">5dp</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:backgroundTint">@color/button_color_green</item>
+        <item name="android:textColor">@color/button_text_color_white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingHorizontal">10dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="RedButton" parent="Widget.AppCompat.Button">
+        <item name="elevation">5dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:backgroundTint">@color/button_color_red</item>
+        <item name="android:textColor">@color/button_text_color_white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingHorizontal">10dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

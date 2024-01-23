@@ -1,0 +1,12 @@
+GLASS, cam_kavanoz, Cam Kavanoz
+GLASS, soda_sisesi, Soda Şişesi
+GLASS, alkol_sisesi, Alkol Şişesi
+PLASTIC, plastik_gazli_sise, Plastik Gazlı Şişe
+PLASTIC, plastik_pet_sise, Plastik Pet Şişe
+PLASTIC, plastik_bardak, Plastik Bardak
+PLASTIC, plastik_mat_sise, Plastik Mat Şişe
+METAL, metal_icecek_kutusu, Metal İçecek Kutusu
+METAL, metal_aluminyum, Metal Alüminyum
+METAL, metal_deodorant, Metal Deodorant
+METAL, konserve_kutusu, Konserve Kutusu
+METAL, kavanoz_kapagi, Kavanoz Kapağı

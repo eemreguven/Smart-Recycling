@@ -1,0 +1,13 @@
+atik_kutusu
+cam_kavanoz
+soda_sisesi
+alkol_sisesi
+plastik_gazli_sise
+plastik_pet_sise
+kavanoz_kapagi
+plastik_bardak
+plastik_mat_sise
+metal_icecek_kutusu
+metal_aluminyum
+metal_deodorant
+konserve_kutusu
