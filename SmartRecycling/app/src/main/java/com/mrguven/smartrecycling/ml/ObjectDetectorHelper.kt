@@ -47,7 +47,7 @@ class ObjectDetectorHelper(
 
         optionsBuilder.setBaseOptions(baseOptionsBuilder.build())
 
-        val modelName = "detect_640.tflite"
+        val modelName = "detect.tflite"
 
         try {
             objectDetector =
