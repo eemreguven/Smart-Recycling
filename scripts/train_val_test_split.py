@@ -1,4 +1,4 @@
-# Randomly splits images to 70% train, 15% validation, and 15% test, and moves them to their respective folders. 
+# Randomly splits images to 75% train, 15% validation, and 10% test, and moves them to their respective folders. 
 
 import glob
 from pathlib import Path
@@ -22,8 +22,8 @@ file_num = len(file_list)
 print('Total images: %d' % file_num)
 
 # Determine number of files to move to each folder
-train_percent = 0.8  # 80% of the files go to train
-val_percent = 0.1 # 10% go to validation
+train_percent = 0.75  # 75% of the files go to train
+val_percent = 0.15 # 15% go to validation
 test_percent = 0.1 # 10% go to test
 train_num = int(file_num*train_percent)
 val_num = int(file_num*val_percent)
@@ -32,7 +32,7 @@ print('Images moving to train: %d' % train_num)
 print('Images moving to validation: %d' % val_num)
 print('Images moving to test: %d' % test_num)
 
-# Select 80% of files randomly and move them to train folder
+# Select 75% of files randomly and move them to train folder
 for i in range(train_num):
     move_me = random.choice(file_list)
     fn = move_me.name
@@ -43,7 +43,7 @@ for i in range(train_num):
     os.rename(os.path.join(parent_path,xml_fn),os.path.join(train_path,xml_fn))
     file_list.remove(move_me)
 
-# Select 10% of remaining files and move them to validation folder
+# Select 15% of remaining files and move them to validation folder
 for i in range(val_num):
     move_me = random.choice(file_list)
     fn = move_me.name
