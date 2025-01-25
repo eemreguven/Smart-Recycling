@@ -9,7 +9,9 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.Navigation
 import com.mrguven.smartrecycling.R
+import com.mrguven.smartrecycling.activities.LiveDetectionActivity
 import com.mrguven.smartrecycling.activities.MapsActivity
+import com.mrguven.smartrecycling.activities.MapsActivity.Companion.CONTAINER_KEY
 import com.mrguven.smartrecycling.databinding.FragmentHomeBinding
 
 // TODO: Rename parameter arguments, choose names that match
@@ -58,7 +60,8 @@ class HomeFragment : Fragment() {
 
 
     private fun navigateToMapActivity() {
-        val intent = Intent(activity, MapsActivity::class.java)
+        val intent = Intent(activity, LiveDetectionActivity::class.java)
+        intent.putExtra(CONTAINER_KEY, "Container")
         startActivity(intent)
     }
 

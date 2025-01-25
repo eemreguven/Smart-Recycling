@@ -564,7 +564,7 @@ class CameraFragment : Fragment(), ObjectDetectorHelper.DetectorListener {
                 processDetection(results)
             }
 
-            //drawBoundingBoxes(results, inferenceTime, imageHeight, imageWidth)
+            drawBoundingBoxes(results, inferenceTime, imageHeight, imageWidth)
         }
     }
 
